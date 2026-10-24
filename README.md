@@ -144,6 +144,7 @@
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) - Manage indexed Markdown knowledge bases for agents with scoped retrieval and deterministic indexes.
 
 
+- [onboard](https://github.com/Keviniscool-boy/onboard) - Decompose any large project's materials (code, docs, PDF/Excel/PPT) into a sourced overview with a three-tier learning path (must-know now / lookup-when-needed / skippable), then teach it interactively; every claim cited or flagged, gaps surfaced, rules validated by stranger-agent testing.
 ## 🎬 Media & Content
 - [youtube-transcript](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript) - Fetch transcripts from YouTube videos and prepare summaries.
 - [video-downloader](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/video-downloader) - Downloads videos from YouTube and other platforms for offline viewing, editing, or archival.
